@@ -14,9 +14,10 @@ Porem ainda faltam ser acertado alguns detalhes .
 
 ###Para Utilziar siga os passos###
 
-Git clone repo
-execute o yarn para que seja instalado as dependências *Executar o yarn para iniciar o servidor de desenv do servidor web
-Teste executar yarn test
+*Git clone repo
+*Execute o yarn para que seja instalado as dependências *Executar o yarn para iniciar o servidor de desenv do servidor web
+*Teste executar yarn test
+
 ###Tecnologias utilizadas###
 
 create-react-app - projeto clichê com configuração zero React - biblioteca reativa principal do SPA ReactDOM - Biblioteca de renderização principal do React React Router DOM - para rotas no projeto Componentes estilizados - para biblioteca de componentes css Axios - biblioteca de busca baseada em promessas React Extras - para renderização de componente condicional StandardJS - como um JavaScript Linter -- formatar o código identificar erros probl de estilos etc... Atomic Design System - como uma pasta e componente e divisão de código
