@@ -18,4 +18,6 @@ function NotFound ({ history }) {
 
 export default memo(NotFound)
 
-// Caso não encontre o perfil, Obs: costumo comentar meus códigos em inglês xD
+// Caso não encontre o perfil, Obs: costumo comentar meus códigos em inglês xD 
+
+//testeai algumas alterações 
