@@ -4,7 +4,7 @@ Criado como um protótipo de teste para uma possível entrevista de emprego. O s
 
 O projeto contem algumas regras como "uso obrigatório de rotas" , "tratamento de erros" , "renderização condicional se o usuário não for encontrado" . Como estava com vontade de me esforçar nesse teste, aprendi e coloquei em prática algumas tecnologias que não "conhecia totalmente", como Atomic Design e Styled Components .
 
-Passei 4 dias fazendo rs =D
+
 
 Pendente ainda as conf com o Netlify e Heroku para fazer a procura , estou estudando outras formas, pois ainda não domino totalmente , como mencionei é um projeto de teste para entrevista então aos poucos estou trabalhando," nunca subi" nenhum repo para mostrar em entrevista e como estava fazendo este já a um tempo resolvi fazer o deploy para Git pois participei de um papo com uma galera e pediram para subir algo para dar uma olhada no código hehe.
 
